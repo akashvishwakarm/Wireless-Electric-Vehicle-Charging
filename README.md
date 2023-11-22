@@ -1,1 +1,1 @@
-# Wireless-Electric-Vehicle-Charging
+#Resonant Inductive Wireless Electric Vehicle Battery Charging
